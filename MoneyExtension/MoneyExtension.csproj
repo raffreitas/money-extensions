@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>MoneyExtensionsRaffx</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Rafael Freitas</Authors>
@@ -16,7 +16,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>money;int;decimal;converter</PackageTags>
     <ReleaseNotes></ReleaseNotes>
-    <Title>MoneyExtensions</Title>
+    <Title>MoneyExtensionsRaffx</Title>
   </PropertyGroup>
 
 </Project>
