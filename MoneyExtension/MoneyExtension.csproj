@@ -4,6 +4,19 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtensions</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Rafael Freitas</Authors>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>Extension to convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/raffreitas/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/raffreitas/money-extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <ReleaseNotes></ReleaseNotes>
+    <Title>MoneyExtensions</Title>
   </PropertyGroup>
 
 </Project>
